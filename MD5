@@ -1,0 +1,12 @@
+e6cf84c34243f81a450f0e89aa6010dc *DESCRIPTION
+80919a3302d16c70f9e7d99719a05dbf *NAMESPACE
+78a66f969413245d99f37823d15f6fd7 *R/Functions.R
+3bb5112be6a993773921f7850e41b188 *R/RcppExports.R
+1961639f6f4f7f9efffa91b624b3d060 *build/partial.rdb
+096b16d0222f46f3ebaef77469ffb3d7 *man/TFRE.Rd
+5f8964f6fb710f799a9f4787fe716772 *man/coef.TFRE.Rd
+3b14cf918fce9540e91e851e531adabc *man/est_lambda.Rd
+2115bead1317caf2a670b8b3eca662a4 *man/plot.TFRE.Rd
+f2cc3d146af0c0d7603143ebb7b8f932 *man/predict.TFRE.Rd
+7e889876564beaf06febe694e7e46b06 *src/Functions_paral.cpp
+14475abf11699b4bf84cbf1544bb65e9 *src/RcppExports.cpp
